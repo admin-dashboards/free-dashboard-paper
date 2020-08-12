@@ -25,7 +25,7 @@ We wanted to fully display the power of this dashboard, so the kit comes packed 
 ## Links:
 
 + [Live Preview](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html)
-+ [Paper Dashboard 2 PRO](https://www.creative-tim.com/product/paper-dashboard-2-pro) (from $39)
++ [Paper Dashboard 2 PRO](https://www.creative-tim.com/product/paper-dashboard-2-pro?AFFILIATE=128200) (from $39)
 
 **Tutorial**
 In order for you to easily be able to use the Paper Dashboard 2, we have created a tutorial page in our documentation. It shows the structure for the files inside the archive and how to import them. It then features every components with a description and example how to use it. You can see the details [here](https://demos.creative-tim.com/paper-dashboard/docs/1.0/getting-started/introduction.html).
