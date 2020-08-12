@@ -1,4 +1,12 @@
-# [Paper Dashboard 2](https://demos.creative-tim.com/paper-dashboard/examples/dashboard.html) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+# [Paper Dashboard 2](https://www.creative-tim.com/product/paper-dashboard?AFFILIATE=128200) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+
+> Free admin dashboard crafted by Creative-Tim, enhanced by AppSeed - Template used by:
+
+- [Jinja Template - Paper Dashboard](https://github.com/app-generator/jinja-template-paper-dashboard) - provided by AppSeed
+- [Paper Dashboard PRO - Flask](https://appseed.us/admin-dashboards/flask-dashboard-paper-pro) - commercial admin dashboard coded in **Flask**
+- [Paper Dashboard PRO - Django](https://appseed.us/admin-dashboards/django-dashboard-paper-pro) - commercial admin dashboard coded in **Django**
+
+<br />
 
 ![alt text](https://s3.amazonaws.com/creativetim_bucket/products/86/original/opt_pd2_thumbnail.jpg)
 
